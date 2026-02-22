@@ -77,5 +77,7 @@ This app uses the **[Open-Meteo API](https://open-meteo.com/)** — completely f
 > No API keys or configuration needed.
 
 ## Screenshots
-
-<!-- Add screenshots here -->
+<img width="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-22 at 23 00 40" src="https://github.com/user-attachments/assets/d7582f43-4e27-46d1-8387-36cf4b05db29" />
+<img width="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-22 at 23 01 54" src="https://github.com/user-attachments/assets/63dec9f5-0db7-4c27-820b-df4f432c6311" />
+<img width="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-22 at 23 02 04" src="https://github.com/user-attachments/assets/6dfc1664-722b-447c-b8cc-24512e4d1f72" />
+<img width="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-22 at 23 01 36" src="https://github.com/user-attachments/assets/ff30446e-6323-4a6a-a0e5-0da45ffe3050" />
