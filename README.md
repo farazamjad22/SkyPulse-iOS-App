@@ -61,7 +61,7 @@ This app uses the **[Open-Meteo API](https://open-meteo.com/)** — completely f
 
 1. Clone the repository
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/farazamjad22/SkyPulse-iOS-App.git
    cd SkyPulse
    ```
 
